@@ -1,0 +1,14 @@
+{
+  "name": "SQLPage",
+  "description": "a SQL-only webapp builder",
+  "repository": "https://github.com/lovasoa/SQLpage",
+  "website": "https://sql.ophir.dev/",
+  "logo": "https://raw.githubusercontent.com/lovasoa/SQLpage/main/docs/favicon.png",
+  "stack": "container",
+  "keywords": [
+    "rust",
+    "sql",
+    "low-code",
+    "no-code"
+  ]
+}
